@@ -1,0 +1,60 @@
+body{
+    
+}
+
+.row{
+    text-align: center;
+    padding-top: 90px;
+}
+
+
+#tengah{
+    
+}
+
+/* Font */
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 5rem;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 5rem;
+    font-weight: 700;
+}
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 5rem;
+    font-weight: 700;
+}
+h4{
+    text-align: center;
+    padding-top: 60px;
+    color: white;
+}
+p1{
+    padding-top: 40px;
+    color: white;
+}
+h5{
+    text-align: center;
+    padding-top: 70px;
+}
+#tentang{
+    background-color: black;
+    height: 290px;
+}
+
+.poti1{
+    height: 180px;
+}
+.poti2{
+    height: 68px;
+}
+.poti3{
+    height: 55px;
+}
+#Footer{
+    padding-top: 80px;
+}
